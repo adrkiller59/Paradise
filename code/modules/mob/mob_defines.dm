@@ -4,7 +4,7 @@
 	animate_movement = 2
 //	flags = NOREACT
 	var/datum/mind/mind
-
+	var/datum/bioHolder/bioHolder
 	var/stat = 0 //Whether a mob is alive or dead. TODO: Move this to living - Nodrak
 
 	//Not in use yet
